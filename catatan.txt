@@ -1,1 +1,2 @@
- Ini catatan pertama saya
+Ini catatan pertama saya
+Ini baris kedua tambahan saya
